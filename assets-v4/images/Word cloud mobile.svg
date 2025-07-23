@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="435" viewBox="0 0 320 435">
+  <g id="Word_cloud_mobile" data-name="Word cloud mobile" transform="translate(-994.529 -7928)">
+    <g id="Entertainment" data-name="Entertainment" transform="translate(357.2 -3476.745)">
+      <path id="Path_24132" data-name="Path 24132" d="M0,0H320V50H0Z" transform="translate(637.329 11404.745)" fill="#b2d1b3"/>
+      <text id="Entertainment-2" data-name="Entertainment" transform="translate(642.329 11404.745)" font-size="40" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="4" y="39">Entertainment</tspan></text>
+    </g>
+    <g id="Health" data-name="Health" transform="translate(-9733.471 8489) rotate(-90)">
+      <path id="Path_24170" data-name="Path 24170" d="M0,0H94.038V35.711H0Z" transform="translate(466.711 10934) rotate(90)" fill="#ebc397"/>
+      <text id="Health-2" data-name="Health" transform="translate(465 10940) rotate(90)" font-size="24" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="24">Health</tspan></text>
+    </g>
+    <g id="Bengaluru" data-name="Bengaluru" transform="translate(13.647 -3258)">
+      <path id="Path_24186" data-name="Path 24186" d="M0,0H120V30H0Z" transform="translate(1151.882 11361) rotate(-90)" fill="#dbbcc1"/>
+      <text id="Bengaluru-2" data-name="Bengaluru" transform="translate(1151.882 11356) rotate(-90)" font-size="20" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="2" y="20">Bengaluru</tspan></text>
+    </g>
+    <g id="Interview" data-name="Interview" transform="translate(-175.471 -3139)">
+      <path id="Path_24133" data-name="Path 24133" d="M0,0H210V50H0Z" transform="translate(1215 11247)" fill="#b2d1b3"/>
+      <text id="Interview-2" data-name="Interview" transform="translate(1220 11247)" font-size="40" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="1" y="39">Interview</tspan></text>
+    </g>
+    <g id="Food" data-name="Food" transform="translate(-174.471 -3263.745)">
+      <path id="Path_24133-2" data-name="Path 24133" d="M0,0H120V50H0Z" transform="translate(1215 11246.745)" fill="#b2d1b3"/>
+      <text id="Food-2" data-name="Food" transform="translate(1220 11246.745)" font-size="40" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="5" y="39">Food</tspan></text>
+    </g>
+    <g id="Delhi" data-name="Delhi" transform="translate(121.187 -2822.49)">
+      <rect id="Rectangle_17869" data-name="Rectangle 17869" width="110" height="40" transform="translate(988.342 11055.49)" fill="#bedde2"/>
+      <text id="Delhi-2" data-name="Delhi" transform="translate(993.342 11055.49)" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="9" y="30">Delhi</tspan></text>
+    </g>
+    <g id="Mumbai" data-name="Mumbai" transform="translate(12250.529 7638) rotate(90)">
+      <path id="Path_24137" data-name="Path 24137" d="M0,0H110V30H0Z" transform="translate(525 11226)" fill="#ebc397"/>
+      <text id="Mumbai-2" data-name="Mumbai" transform="translate(530 11226)" font-size="20" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="7" y="20">Mumbai</tspan></text>
+    </g>
+    <g id="Hyderabad" data-name="Hyderabad" transform="translate(453.529 -3023.745)">
+      <path id="Path_24142" data-name="Path 24142" d="M0,0H120V30H0Z" transform="translate(587 11061.745)" fill="#ebdfc5"/>
+      <text id="Hyderabad-2" data-name="Hyderabad" transform="translate(591 11062.745)" font-size="20" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="20">Hyderabad</tspan></text>
+    </g>
+    <g id="Chennai" data-name="Chennai" transform="translate(526.529 -2823.235)">
+      <path id="Path_24141" data-name="Path 24141" d="M0,0H110V30H0Z" transform="translate(583 10986.235)" fill="#ebdfc5"/>
+      <text id="Chennai-2" data-name="Chennai" transform="translate(588 10986.235)" font-size="20" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="20">Chennai</tspan></text>
+    </g>
+    <g id="Kolkata" data-name="Kolkata" transform="translate(2248.588 19597.168) rotate(180)">
+      <path id="Path_24186-2" data-name="Path 24186" d="M0,0H100V30H0Z" transform="translate(1189.059 11434.168) rotate(-90)" fill="#ebdfc5"/>
+      <text id="Kolkata-2" data-name="Kolkata" transform="translate(1189.059 11429.168) rotate(-90)" font-size="20" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="5" y="20">Kolkata</tspan></text>
+    </g>
+    <g id="Science" data-name="Science" transform="translate(456.588 -2913.49)">
+      <path id="Path_24141-2" data-name="Path 24141" d="M0,0H110V30H0Z" transform="translate(582.941 10986.49)" fill="#ebdfc5"/>
+      <text id="Science-2" data-name="Science" transform="translate(587.941 10986.49)" font-size="20" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="20">Science</tspan></text>
+    </g>
+    <g id="Sports" data-name="Sports" transform="translate(12159.588 7174.912) rotate(90)">
+      <rect id="Rectangle_17869-2" data-name="Rectangle 17869" width="110" height="40" transform="translate(988.088 11055.059)" fill="#bedde2"/>
+      <text id="Sports-2" data-name="Sports" transform="translate(993.088 11055.059)" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="30">Sports</tspan></text>
+    </g>
+    <g id="Data" data-name="Data" transform="translate(-9733.107 8442) rotate(-90)">
+      <path id="Path_24170-2" data-name="Path 24170" d="M0,0H70V30H0Z" transform="translate(459 10933.637) rotate(90)" fill="#ebc397"/>
+      <text id="Data-2" data-name="Data" transform="translate(459 10943.637) rotate(90)" font-size="20" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="1" y="20">Data</tspan></text>
+    </g>
+    <g id="Fashion" data-name="Fashion" transform="translate(12541.444 7008.51) rotate(90)">
+      <path id="Path_24186-3" data-name="Path 24186" d="M0,0H110V30H0Z" transform="translate(1189.49 11431.915) rotate(-90)" fill="#ebc397"/>
+      <text id="Fashion-2" data-name="Fashion" transform="translate(1189.49 11431.915) rotate(-90)" font-size="20" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="14" y="20">Fashion</tspan></text>
+    </g>
+    <g id="Opinion" data-name="Opinion" transform="translate(12090.588 6994.912) rotate(90)">
+      <rect id="Rectangle_17869-3" data-name="Rectangle 17869" width="170" height="40" transform="translate(988.088 11055.059)" fill="#bedde2"/>
+      <text id="Opinion-2" data-name="Opinion" transform="translate(998.088 11055.059)" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="13" y="30">Opinion</tspan></text>
+    </g>
+    <g id="Technology" data-name="Technology" transform="translate(-9786.917 9271.642) rotate(-90)">
+      <rect id="Rectangle_17869-4" data-name="Rectangle 17869" width="200" height="40" transform="translate(988.642 11056.446)" fill="#bedde2"/>
+      <text id="Technology-2" data-name="Technology" transform="translate(993.642 11056.446)" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="5" y="30">Technology</tspan></text>
+    </g>
+    <g id="Hyderabad-3" data-name="Education" transform="translate(-9836.529 8866) rotate(-90)">
+      <path id="Path_24142-2" data-name="Path 24142" d="M0,0H120V30H0Z" transform="translate(583 11061.059)" fill="#ebdfc5"/>
+      <text id="Education" transform="translate(588 11061.059)" font-size="20" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="3" y="20">Education</tspan></text>
+    </g>
+    <g id="Kolkata-3" data-name="Life-and-Style" transform="translate(12477.545 7088.468) rotate(90)">
+      <path id="Path_24186-4" data-name="Path 24186" d="M0,0H180V30H0Z" transform="translate(1189.532 11483.016) rotate(-90)" fill="#dbbcc1"/>
+      <text id="Life-and-Style" transform="translate(1189.532 11478.016) rotate(-90)" font-size="20" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="7" y="20">Life-and-Style</tspan></text>
+    </g>
+    <g id="Business" data-name="Business" transform="translate(-110.353 -2937)">
+      <path id="Path_24133-3" data-name="Path 24133" d="M0,0H210V50H0Z" transform="translate(1214.882 11250)" fill="#b2d1b3"/>
+      <text id="Business-2" data-name="Business" transform="translate(1219.882 11250)" font-size="40" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="9" y="39">Business</tspan></text>
+    </g>
+  </g>
+</svg>
